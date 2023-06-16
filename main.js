@@ -496,7 +496,7 @@ form.addEventListener('input', () => {
 const btnContainer = document.getElementById('resume-btn-container');
 const downloadResume = document.getElementById('download-resume');
 downloadResume.addEventListener('click', () => {
-  const fileUrl = 'https://drive.google.com/file/d/1RPgcL5F-pVSKaFAQoomNgUPPTEjX0kih/view';
+  const fileUrl = 'https://drive.google.com/u/0/uc?id=1RPgcL5F-pVSKaFAQoomNgUPPTEjX0kih&export=download';
   const filename = 'harshita-jain-resume.pdf';
 
   const link = document.createElement('a');
