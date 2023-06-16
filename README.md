@@ -17,7 +17,7 @@ https://github.com/microverseinc/readme-template
 
 ### Live Demo
 
-- [Live Demo Link](https://harshita02.github.io/PortfolioPage/)
+- [Live Demo Link](https://harshitajain06.github.io/Harshita-Portfolio/)
 
 
 ### Setup
