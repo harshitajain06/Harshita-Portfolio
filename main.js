@@ -51,6 +51,8 @@ const cardData = [
     desc: `This is a Fashion World Conference website in first 
     Capstone project during Microverse Full Stack developer course.
      I used HTML, CSS and JavaScript in this project.`,
+    popupDesc: `This app allows a user see the details of conference. It also 
+    shows the sponsers of the conference. `,
     tags: ['html', 'css', 'javascript'],
     popTech: ['JavaScript', 'CSS', 'HTML'],
     seeLive: 'https://harshitajain06.github.io/Capstone-1/',
@@ -66,6 +68,8 @@ const cardData = [
     desc: `Meals-Menu is a web app that showcases the the meals
      available in a restaurant with great number of details about
       those meals including the categories, Ingridients and the recipes for them.`,
+    popupDesc: `This app allows a user to see the meals of different categories.
+    All data is preserved by the external meals API service.`,
     tags: ['html', 'css', 'javascript'],
     popTech: ['JavaScript', 'CSS', 'HTML'],
     seeLive: 'https://harshitajain06.github.io/Meals-Menu/dist/',
